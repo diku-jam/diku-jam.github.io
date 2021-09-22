@@ -9,4 +9,8 @@ theme:
   font:
     code: Comic Neue
 
-copyright: The official DIKU-jam Game Jam (no copyright)
+nav:
+  - Home: index.md
+  - Rules: rules.md
+
+copyright: The official DIKU-jam Game Jam

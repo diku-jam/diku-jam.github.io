@@ -4,11 +4,16 @@
 
 Please help make this happen.
 
-### How?
+### TODO
 
-- Ideas needed
-- Location needed
+These are the things that need to be handled:
+
+- Logo
+- Find location
 - Beer
+- Food
 - Music
+- Ideas
+- People
 - Game?
 - Jam?
