@@ -6,3 +6,7 @@ theme:
     - scheme: default
       primary: green
       accent: light green
+  font:
+    code: Comic Neue
+
+copyright: The official DIKU-jam Game Jam (no copyright)

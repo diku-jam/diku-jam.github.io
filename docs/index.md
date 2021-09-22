@@ -4,3 +4,11 @@
 
 Please help make this happen.
 
+### How?
+
+- Ideas needed
+- Location needed
+- Beer
+- Music
+- Game?
+- Jam?
