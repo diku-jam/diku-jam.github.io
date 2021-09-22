@@ -1,0 +1,8 @@
+site_name: DIKU-jam
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
