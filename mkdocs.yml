@@ -8,6 +8,7 @@ theme:
       accent: light green
   font:
     code: Comic Neue
+  logo: assets/logo.png
 
 nav:
   - Home: index.md
